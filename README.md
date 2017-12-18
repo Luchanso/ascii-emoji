@@ -1,12 +1,12 @@
 ```
 ʘ‿ʘ
-Innocent face 
+Innocent face
 
 ಠ_ಠ
-Reddit disapproval face 
+Reddit disapproval face
 
 (╯°□°）╯︵ ┻━┻
-Table Flip / Flipping Table 
+Table Flip / Flipping Table
 
 ┬─┬﻿ ノ( ゜-゜ノ)
 Put the table back
@@ -21,40 +21,40 @@ Double Flip / Double Angry
 Fisticuffs
 
 ʕ•ᴥ•ʔ
-cute bear 
+cute bear
 
 ʕᵔᴥᵔʔ
 squinting bear
 
 (｡◕‿◕｡)
-cute face with big eyes 
+cute face with big eyes
 
 （　ﾟДﾟ）
-surprised / loudmouthed 
+surprised / loudmouthed
 
 ¯\_(ツ)_/¯
-shrug face  
+shrug face
 
 ¯\(°_o)/¯
 meh
 
 (`･ω･´)
-feel perky  
+feel perky
 
 (╬ ಠ益ಠ)
 angry face
 
 ☜(⌒▽⌒)☞
-excited 
+excited
 
 ε=ε=ε=┌(;*´Д`)ﾉ
-running 
+running
 
 ヽ(´▽`)/
-happy face  
+happy face
 
 ヽ(´ー｀)ノ
-basking in glory  
+basking in glory
 
 ᵒᴥᵒ#
 kitty emote
@@ -66,16 +66,16 @@ fido
 meow
 
 （ ^_^）o自自o（^_^ ）
-cheers  
+cheers
 
 ಠ‿ಠ
 devious smile
 
 ( ͡° ͜ʖ ͡°)
-4chan emoticon  
+4chan emoticon
 
 ಥ_ಥ
-crying face 
+crying face
 
 ಥ﹏ಥ
 breakdown
@@ -84,7 +84,7 @@ breakdown
 disagree
 
 ᕙ(⇀‸↼‶)ᕗ
-flexing 
+flexing
 
 ᕦ(ò_óˇ)ᕤ
 do you even lift bro?
@@ -93,19 +93,19 @@ do you even lift bro?
 kirby
 
 q(❂‿❂)p
-tripping out  
+tripping out
 
 ⊙﹏⊙
-discombobulated 
+discombobulated
 
 ¯\_(⊙︿⊙)_/¯
-sad and confused  
+sad and confused
 
 °‿‿°
 japanese lion face
 
 ¿ⓧ_ⓧﮌ
-confused  
+confused
 
 (⊙.☉)7
 confused scratch
@@ -114,10 +114,10 @@ confused scratch
 worried
 
 щ（ﾟДﾟщ）
-dear god why  
+dear god why
 
 ٩(͡๏_๏)۶
-staring 
+staring
 
 ఠ_ఠ
 pretty eyes
@@ -162,7 +162,7 @@ cry troll
 TGIF
 
 ┌(ㆆ㉨ㆆ)ʃ
-dancing 
+dancing
 
 눈_눈
 sleepy
@@ -171,10 +171,10 @@ sleepy
 angry birds
 
 乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
-no support 
+no support
 
-(๑•́ ₃ •̀๑) 
-shy 
+(๑•́ ₃ •̀๑)
+shy
 
 ⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
 fly away
@@ -188,17 +188,17 @@ love
 ԅ(≖‿≖ԅ)
 Touchy Feely
 
-( ˘ ³˘)♥ 
+( ˘ ³˘)♥
 Kissing
 
 ( ˇ෴ˇ )
 shark face / jagged mustache
 
 ヾ(-_- )ゞ
-emo dance 
+emo dance
 
 ♪♪ ヽ(ˇ∀ˇ )ゞ
-dance 
+dance
 
 ヾ(´〇`)ﾉ♪♪♪
 opera
@@ -208,7 +208,7 @@ winnie the pooh
 
 ლ(•́•́ლ)
 boxing / fight
-  
+
 {•̃_•̃}
 robot
 
@@ -233,7 +233,7 @@ chasing / running away
 (っ•́｡•́)♪♬
 whistling / music
 
-(҂◡_◡) 
+(҂◡_◡)
 injured
 
 ƪ(ړײ)‎ƪ​​
@@ -242,7 +242,7 @@ creeper
 ⥀.⥀
 eye roll
 
-ح˚௰˚づ 
+ح˚௰˚づ
 flying
 
 ♨_♨
