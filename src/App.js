@@ -1,18 +1,43 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import styled from 'styled-components';
+
+const Content = styled.pre`
+  margin: 10px auto;
+  width: 500px;
+`;
+
+const Input = styled.input`
+  margin: 100px 0 50px 0;
+  width: 500px;
+  height: 26px;
+  font-size: 21px;
+  padding: 5px;
+  color: #333;
+}
+`;
 
 class App extends Component {
+  state = {
+    data: null,
+  };
+
+  componentDidMount() {
+    import('./README.md')
+      .then(readme => fetch(readme))
+      .then(response => response.text())
+      .then(data => this.setState({ data }));
+  }
+
   render() {
+    const { data } = this.state;
+
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <Content>
+          <Input />
+          <br />
+          {data ? data : 'Loading...'}
+        </Content>
       </div>
     );
   }
